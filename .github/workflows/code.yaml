@@ -5,7 +5,7 @@ on:
 
   pull_request:
     branches:
-      - main
+      - master
 # functions (what needs to be done)
 jobs:
   build:
