@@ -34,7 +34,7 @@ const ChannelDetail = () => {
           style={{
             height: "300px",
             background:
-              "linear-gradient(90deg, rgba(0,238,247,1) 0%, rgba(206,3,184,1) 100%, rgba(0,212,255,1) 100%)",
+              "linear-gradient(21deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)",
             zIndex: 10,
           }}
         />
