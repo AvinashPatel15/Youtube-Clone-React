@@ -26,12 +26,12 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #f2f2f2 !important;
-  color: black !important;
+  background-color: #fc1503 !important;
+  color: white !important;
 }
 
 .category-btn:hover span {
-  color: black !important;
+  color: white !important;
 }
 
 .react-player {
@@ -50,6 +50,7 @@ a {
   text-transform: capitalize;
   font-size: 17px;
   display: flex;
+  gap: 8px;
   align-items: center;
   justify-content: start;
   cursor: pointer;
@@ -58,7 +59,7 @@ a {
   border: none;
   padding: 7px 15px;
   margin: 10px 0px;
-  border-radius: 10px;
+  border-radius: 20px;
   transition: all 0.3s ease;
 }
 
