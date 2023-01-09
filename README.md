@@ -3,16 +3,13 @@
 
 **Introduction**
 ---
-This is our Fifth Construct Week Project at Masai School's Full Stack Web Development Course. We are currently at the end of fifth unit where we need to make projects as per mastery based progression environment of Masai School after learnig certain tech-tools and in fifth unit we have learnt React and Redux for Front-end and state management respectively.
-Awake Fashion is India’s leading fashion destination for the latest trends. Part of Dubai-based retail and hospitality The Landmark Group, Lifestyle brings multiple categories including men's, women's, and kids’ apparel, footwear, handbags, fashion accessories, and beauty under the convenience of a single roof. 
+YouTube is a video sharing service where users can watch, like, share, comment and upload their own videos. The video service can be accessed on PCs, laptops, tablets and via mobile phones.
 ##  Tech-stack used
   
    ```
-   Frontend : React JS, Chakra-UI
+   Frontend : React JS, Material-UI, HTML5, CSS3, JavaScript
    
-   State Management : Redux
-   
-   DataBase   : JSON
+   DataBase   : Rapid-API
    ```
  ## Team members and contribution
 
