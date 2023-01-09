@@ -1,41 +1,55 @@
 # Welcome to Youtube Clone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ---
 
-**Introduction**
----
+## **Introduction**
+
 YouTube is a video sharing service where users can watch, like, share, comment and upload their own videos. The video service can be accessed on PCs, laptops, tablets and via mobile phones.
-##  Tech-stack used
-  
-   ```
-   Frontend : React JS, Material-UI, HTML5, CSS3, JavaScript
-   
-   API   : Rapid-API
-   ```
 
-  **Sample Page Images**
-  ---
-  
-  **1) Home Page**
-  ---
-  <a href="https://ibb.co/pXrvSWs"><img src="https://i.ibb.co/12Jfksp/Screenshot-20221219-014333.png" alt="Screenshot-20221219-014333" border="0"></a>
-  
-  
-  **2) User Login Page**
-   ---
-<img src="https://miro.medium.com/max/1400/1*kL1UUG3eYg9694UNJQjUEA.png"></img>
+## Tech-stack used
 
-  **3) Products Page**
-  ---
+```
+Frontend : React JS, Material-UI, HTML5, CSS3, JavaScript
+
+API   : Rapid-API
+```
+
+**Sample Page Images**
+
+---
+
+**1) Home Page**
+
+---
+
+<a href="https://ibb.co/pXrvSWs"><img src="https://i.ibb.co/12Jfksp/Screenshot-20221219-014333.png" alt="Screenshot-20221219-014333" border="0"></a>
+
+**2) User Login Page**
+
+---
+
+<img src="./src/assets/HomePage.png"></img>
+
+**3) Products Page**
+
+---
+
 <img src="https://miro.medium.com/max/1400/1*FvjVOPOfsEqLjNPC8oWJzA.png"></img>
 
-  **4) Product Display Page**
-  ---
+**4) Product Display Page**
+
+---
+
 <img src="https://miro.medium.com/max/1400/1*5XQuSW3OezumrRqThUSFtg.png"></img>
 
-  **5) Cart Page**
-  ---
+**5) Cart Page**
+
+---
+
 <img src="https://miro.medium.com/max/1400/1*eK3d0XnlyRm1RIZFvCjN7w.png"></img>
 
-  **6) Payment Page**
-  ---
+**6) Payment Page**
+
+---
+
 <img src="https://miro.medium.com/max/1400/1*8lOoLP2q-pJVEUW7Z1vdwQ.png"></img>
