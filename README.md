@@ -11,16 +11,6 @@ YouTube is a video sharing service where users can watch, like, share, comment a
    
    API   : Rapid-API
    ```
-## Features
-
- | Serial No            | Feature                                                              |
-| ----------------- | ------------------------------------------------------------------ |
-| 1 | User signup and Login |
-| 2 | Products Page with Filter and Sort Functionalities |
-| 3 | Dynamic add to cart feature |
-| 4 | Dynamic cart page using Redux |
-| 5 | Admin Page |
-| 6 | Dummy payment using UPI-Paytm |
 
   **Sample Page Images**
   ---
