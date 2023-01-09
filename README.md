@@ -9,18 +9,8 @@ YouTube is a video sharing service where users can watch, like, share, comment a
    ```
    Frontend : React JS, Material-UI, HTML5, CSS3, JavaScript
    
-   DataBase   : Rapid-API
+   API   : Rapid-API
    ```
- ## Team members and contribution
-
- | Team Member            | Contribution                                                              |
-| ----------------- | ------------------------------------------------------------------ |
-| Avinash Patel | Home Page with Sliders and Product API |
-| Sagar Wankhade | Signup, Login Page And Cart Page |
-| Abhishek | Product's Detailed Page, Admin Page, And Shop Later Page |
-| Rahul | Beauty Page |
-| Manoj Mogal | Men's Page, Women Page, And Kids Page |
-
 ## Features
 
  | Serial No            | Feature                                                              |
