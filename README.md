@@ -22,34 +22,22 @@ API   : Rapid-API
 
 ---
 
-<a href="https://ibb.co/pXrvSWs"><img src="https://i.ibb.co/12Jfksp/Screenshot-20221219-014333.png" alt="Screenshot-20221219-014333" border="0"></a>
+<a href="https://youtube-clone-react-pi.vercel.app/"><img src="./src/assets/HomePage.png" alt="Home Page"></a>
 
-**2) User Login Page**
-
----
-
-<img src="./src/assets/HomePage.png"></img>
-
-**3) Products Page**
+**2) Search Page**
 
 ---
 
-<img src="https://miro.medium.com/max/1400/1*FvjVOPOfsEqLjNPC8oWJzA.png"></img>
+<img src="./src/assets/SearchPage.png"></img>
 
-**4) Product Display Page**
-
----
-
-<img src="https://miro.medium.com/max/1400/1*5XQuSW3OezumrRqThUSFtg.png"></img>
-
-**5) Cart Page**
+**3) Video Page**
 
 ---
 
-<img src="https://miro.medium.com/max/1400/1*eK3d0XnlyRm1RIZFvCjN7w.png"></img>
+<img src="./src/assets/VideoPage.png"></img>
 
-**6) Payment Page**
+**4) Channel Page**
 
 ---
 
-<img src="https://miro.medium.com/max/1400/1*8lOoLP2q-pJVEUW7Z1vdwQ.png"></img>
+<img src="./src/assets/ChannelPage.png"></img>
