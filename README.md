@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Welcome to Youtube Clone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Introduction**
+---
+This is our Fifth Construct Week Project at Masai School's Full Stack Web Development Course. We are currently at the end of fifth unit where we need to make projects as per mastery based progression environment of Masai School after learnig certain tech-tools and in fifth unit we have learnt React and Redux for Front-end and state management respectively.
+Awake Fashion is India’s leading fashion destination for the latest trends. Part of Dubai-based retail and hospitality The Landmark Group, Lifestyle brings multiple categories including men's, women's, and kids’ apparel, footwear, handbags, fashion accessories, and beauty under the convenience of a single roof. 
+##  Tech-stack used
+  
+   ```
+   Frontend : React JS, Chakra-UI
+   
+   State Management : Redux
+   
+   DataBase   : JSON
+   ```
+ ## Team members and contribution
 
-## Available Scripts
+ | Team Member            | Contribution                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| Avinash Patel | Home Page with Sliders and Product API |
+| Sagar Wankhade | Signup, Login Page And Cart Page |
+| Abhishek | Product's Detailed Page, Admin Page, And Shop Later Page |
+| Rahul | Beauty Page |
+| Manoj Mogal | Men's Page, Women Page, And Kids Page |
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+ | Serial No            | Feature                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| 1 | User signup and Login |
+| 2 | Products Page with Filter and Sort Functionalities |
+| 3 | Dynamic add to cart feature |
+| 4 | Dynamic cart page using Redux |
+| 5 | Admin Page |
+| 6 | Dummy payment using UPI-Paytm |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  **Sample Page Images**
+  ---
+  
+  **1) Home Page**
+  ---
+  <a href="https://ibb.co/pXrvSWs"><img src="https://i.ibb.co/12Jfksp/Screenshot-20221219-014333.png" alt="Screenshot-20221219-014333" border="0"></a>
+  
+  
+  **2) User Login Page**
+   ---
+<img src="https://miro.medium.com/max/1400/1*kL1UUG3eYg9694UNJQjUEA.png"></img>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  **3) Products Page**
+  ---
+<img src="https://miro.medium.com/max/1400/1*FvjVOPOfsEqLjNPC8oWJzA.png"></img>
 
-### `npm test`
+  **4) Product Display Page**
+  ---
+<img src="https://miro.medium.com/max/1400/1*5XQuSW3OezumrRqThUSFtg.png"></img>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  **5) Cart Page**
+  ---
+<img src="https://miro.medium.com/max/1400/1*eK3d0XnlyRm1RIZFvCjN7w.png"></img>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  **6) Payment Page**
+  ---
+<img src="https://miro.medium.com/max/1400/1*8lOoLP2q-pJVEUW7Z1vdwQ.png"></img>
