@@ -28,7 +28,15 @@ const SearchFeed = () => {
         <span style={{ color: "#f31503" }}>{searchTerm}</span> Videos
       </Typography>
 
-      <Videos videos={videos} />
+      <Videos
+        videos={videos}
+        gridTemplateColumns={{
+          base: "repeat(1, 1fr)",
+          sm: "repeat(2,1fr)",
+          md: "repeat(3,1fr)",
+          lg: "repeat(4,1fr)",
+        }}
+      />
     </Box>
   );
 };
